@@ -1,3 +1,5 @@
 /.classpath
 /.project
-
+/BeanScope-applicationContext.xml
+/applicationContext.xml
+/com/
