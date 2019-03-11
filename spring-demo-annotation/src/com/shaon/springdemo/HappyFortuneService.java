@@ -29,7 +29,7 @@ public class HappyFortuneService implements FortuneService {
 		System.out.println("Post construction started.");
 		Scanner sc = null;
 		try {
-			sc = new Scanner(new File("C:\\Users\\LENOVO\\Desktop\\sample.txt"));
+			sc = new Scanner(new File("sample.txt"));
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		}
